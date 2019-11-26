@@ -1,0 +1,98 @@
+body{
+font-family: 'Roboto', sans-serif;
+margin: 0px !important;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-size: 46px;
+}
+
+h2{
+	font-size: 30px;
+	
+
+}
+
+footer{
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+	margin-top: 20px;
+	color: white;
+	padding: 5px 20px;
+
+}
+.banner{
+
+	background-image: url(images/banner.jpg);
+	padding: 300px 0px;
+	width: 100%;
+	background-size: cover; 
+	color: white;
+	text-align: center;
+}
+
+.btn-red{
+	color: white;
+	padding: 14px;
+	border: 1px solid white;
+	border-radius: 8px;
+	font-size: 20px;
+	margin: 20px;
+
+}
+
+.btn-black{
+	color: black;
+	padding: 14px;
+	border: 1px solid black;
+	border-radius: 8px;
+	font-size: 20px;
+	margin: 20px;
+}
+
+
+.mt-60{
+	margin-top: 80px;
+}
+
+.mt-20{
+	margin-top: 20px;
+}
+
+.container{
+display: flex;
+height: 200px;
+justify-content: space-between;
+
+}
+
+.card{
+	margin: 20px;
+	height: 150%;
+	width: 40%;
+	text-align: center;
+	background-size: cover;
+	color: white;
+
+
+}
+#facebook{
+	color: white;
+}
+#Prestations{
+	background-image: url(images/banner1.jpeg);
+}
+#Ilsnousfontconfiance{
+	background-image: url(images/banner2.jpeg);
+}
+#Découvrir{
+	background-image: url(images/banner3.jpg);
+}
+
+
